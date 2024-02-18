@@ -3,4 +3,5 @@ Created a hip-hop music store application that allows customers to purchase albu
 Customers must first need an account created by the admin in order log in.
 
 Admin Username: admin 
+
 Admin Password: admin
